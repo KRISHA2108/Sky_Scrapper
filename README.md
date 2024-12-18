@@ -1,16 +1,28 @@
-# weather_app
+## Weather App
 
-A new Flutter project.
+A Flutter application that provides weather information for various cities. Users can add their city, view detailed weather information </br>on the homepage,bookmark their favorite cities, and search for cities. All data is stored locally using shared preferences.
 
-## Getting Started
+### Features:
 
-This project is a starting point for a Flutter application.
+- Add Your City: Users can add cities of their choice to view weather details.
 
-A few resources to get you started if this is your first Flutter project:
+- Homepage City Details: Displays detailed weather information for a selected city on the homepage.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Bookmark Cities: Users can bookmark cities for quick access.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Search Cities: Search for cities to view their weather details.
+
+- Local Storage: User preferences and bookmarked cities are stored locally using shared_preferences.
+
+# Output
+
+<img src = "https://github.com/user-attachments/assets/67ac0990-f83b-4cfa-b715-06bd1776e8af" width="200">
+<img src = "https://github.com/user-attachments/assets/fdf67aea-6c51-47cd-988a-0993610ce9ab" width="200">
+<img src = "https://github.com/user-attachments/assets/9394ae98-afe9-4893-8556-652cb42b2ccc" width="200">
+<img src = "https://github.com/user-attachments/assets/87a19580-cc86-4e32-83a2-36e16df1483a" width="200">
+<img src = "https://github.com/user-attachments/assets/c89f17fb-07d3-466a-8272-f6b229322d75" width="200">
+<img src = "https://github.com/user-attachments/assets/4f71ff14-8b61-4c87-91f9-7d51499626d2" width="200">
+<img src = "https://github.com/user-attachments/assets/6a52c010-ecce-4331-bc24-3aafdc152e01" width="200">
+<img src = "https://github.com/user-attachments/assets/058b50bf-d106-4eaa-9496-aefde693b7ba" width="200">
+
+
